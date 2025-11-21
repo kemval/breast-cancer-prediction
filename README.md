@@ -111,11 +111,9 @@ LogisticRegression(
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/breast_cancer_project.git
-cd breast_cancer_project
+git clone https://github.com/kemval/breast-cancer-prediction.git
+cd breast-cancer-prediction
 ```
-
-> **Note**: Replace `yourusername` with your actual GitHub username after uploading
 
 ### Step 2: Create Virtual Environment (Recommended)
 ```bash
